@@ -1,0 +1,15 @@
+{
+    "name": "workspace/web-apps",
+    "autoload": {
+        "psr-4": {
+            "Workspace\\WebApps\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ben-Bytes",
+            "email": "ylainbiay.casinointer@gmail.com"
+        }
+    ],
+    "require": {}
+}
